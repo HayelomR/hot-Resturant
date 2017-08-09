@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HayelomR/hot-Resturant.git"
+    "url": "git+https://github.com/HayelomR/hot-resturant.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HayelomR/hot-Resturant/issues"
+    "url": "https://github.com/HayelomR/hot-resturant/issues"
   },
-  "homepage": "https://github.com/HayelomR/hot-Resturant#readme",
+  "homepage": "https://github.com/HayelomR/hot-resturant#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4"
